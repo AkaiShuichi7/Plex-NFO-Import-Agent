@@ -10,3 +10,4 @@ TBC...
 
 
 
+"PlexNFO.bundle"
